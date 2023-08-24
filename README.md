@@ -13,7 +13,7 @@
 
 -   👨‍💻 All of my projects are available at [https://github.com/Mario-Chavez](https://github.com/Mario-Chavez)
 
--   💬 Ask me about **React Native, TypeScript, JavaScript, NodeJs, Bootstrap, API RESTful, HTML, CSS**
+-   💬 Ask me about **ReactJs, React Native, TypeScript, JavaScript, NodeJs, Bootstrap, API RESTful, HTML, CSS**
 
 -   📫 How to reach me **marioachavez1@gmail.com**
 
